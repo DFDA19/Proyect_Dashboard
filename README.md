@@ -33,11 +33,9 @@ En este proyecto, hemos creado una guía interactiva de ayuda para la elección 
 
 # Visualizaciones Principales#
 
-Mapa de Destinos: Comenzamos con un mapa interactivo que muestra los destinos disponibles. Cada país se representa con un marcador en el mapa, y el tamaño o el color del marcador se basa en un factor específico, como la puntuación general del destino.
+Mapa de Destinos: Comenzamos con un mapa interactivo que muestra los destinos disponibles. Cada país se representa con un marcador en el mapa, al pasar por encima de su silueta obtendran toda su informacion disponible.
 
 Gráfico de Barras Comparativas: Presentamos un gráfico de barras que permite comparar diferentes destinos en función de varios factores, como la seguridad, el contexto económico y el marco legal. Los usuarios pueden seleccionar los destinos de interés y ver cómo se comparan en cada factor.
-
-Gráfico de Líneas Temporales: Proporcionamos un gráfico de líneas que muestra la evolución de los factores clave a lo largo del tiempo para cada destino. Esto ayuda a los usuarios a comprender las tendencias y cambios en los destinos a lo largo de los años.
 
 Tabla de Datos Detallados: Ofrecemos una tabla con información detallada sobre cada destino, incluyendo su puntuación en diferentes factores y una descripción general. Los usuarios pueden ordenar y filtrar la tabla según sus preferencias.
 
